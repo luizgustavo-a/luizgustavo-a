@@ -1,16 +1,40 @@
-## Hi there 👋
+## Oi, eu sou o Luiz Almeida! 👋🧑‍💻
 
-<!--
-**luizgustavo-a/luizgustavo-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou de Recife-PE, apaixonado por programação, ciência e curioso por natureza. Um biólogo por formação que encontrou na bioinformática o mundo fantástico da programação e decidiu que era aquilo procurava. É no código onde minha mente inquieta encontra paz (ou, pelo menos, menos caos).
 
-Here are some ideas to get you started:
+Atualmente, estou me formando em Análise e Desenvolmento de Sistemas, focado no Back-end e flertando com o RPA. Se não estou criando algo, estou pensando em criar. 🤯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tecnologias e Ferramentas:
+
+<div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40" width="40"/>       
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"height="40" width="40" />       
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"height="40" width="40" />        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40"/>        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40"/>       
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"height="40" width="40" />        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"height="40" width="40" />        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>       
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"height="40" width="40" />
+</div>
+
+### 👀 No que tô de olho:
+- **Microsserviços**
+- **RPA com UiPath**
+- **RabbitMQ e Kafka**
+
+### 🎧 Fora do código:
+- Ouvindo música (geralmente _Melodrama_ da Lorde 🎶)
+- Reassistindo Parks and Recreation pela milésima vez
+- Lendo, desenhando, pintando ou escrevendo
+- Explorando algum pedacinho da cultura pop
+- Na academia, tomando uma boa caipirinha ou recarregando com muito café ☕
+
+<br>
+<div>
+<a href="https://github.com/luizgustavo-a">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavo-a&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgustavo-a&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
