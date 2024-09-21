@@ -28,7 +28,7 @@ Atualmente, estou me formando em Análise e Desenvolmento de Sistemas, focado no
 ### 🎧 Fora do código:
 - Ouvindo música (geralmente _Melodrama_ da Lorde 🎶)
 - Reassistindo Parks and Recreation pela milésima vez
-- Lendo, desenhando, pintando ou escrevendo
+- Fazendo alguma arte, estudando alguma língua 
 - Explorando algum pedacinho da cultura pop
 - Na academia, tomando uma boa caipirinha ou recarregando com muito café ☕
 
